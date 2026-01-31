@@ -1,0 +1,2 @@
+# slimeNRF52840-poweroff
+一个一键关闭所有配对的SlimeNRF52840追踪器的工具
